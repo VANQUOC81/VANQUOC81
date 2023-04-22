@@ -76,10 +76,6 @@ Software engineering is like a never-ending puzzle in which I am fervidly commit
     <img align="left" alt="Postgresql" width="40px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   </a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img align="left" alt="PhotoShop" width="40px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  </a>
 </p>
 <br/>
 <br/>
