@@ -8,7 +8,7 @@ As a coder I love writing (clean) code. Since the day I wrote my first program i
 
 Software engineering is like a never-ending puzzle in which I am fervidly committed to solving. These puzzles can be sometimes very complex and challenging. Figuring it out and solving these puzzles is exactly what makes me tick. To be able to come up with a solution, testing it (in a separate Git branch, of course, 😉) successfully against all possible scenarios, and then seeing your code running smoothly on production is oddly satisfying.
 
-* 🔭 I’m currently working on [QuantConnect Lean]([https://github.com/QuantConnect](http://github.com/VANQUOC81/Lean/tree/master))
+* 🔭 I’m currently working on [QuantConnect Lean]([https://github.com/QuantConnect](http://github.com/VANQUOC81/Lean/tree/master)
 * 🧠  I'm learning **Python, Django and Dockers**
 * 💬 Ask me about **C#, .Net, SQL, Azure DevOps**
 * 📄 Know about my experiences [https://www.linkedin.com/in/vanquoc81/](https://www.linkedin.com/in/vanquoc81/)
