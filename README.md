@@ -1,7 +1,7 @@
  Hello World 👋, my name is Quoc Nguyen 👨‍💻 
 ============================
 
-**`Software Engineer by 💖 (Developer/AlgoTrader)`**
+**`Full-Stack Software Engineer (Developer/AlgoTrader)`**
 ---------------------------------------------------
 
 As a coder I love writing (clean) code. Since the day I wrote my first program in Java and shaped it to produce the desired output, back then it felt almost like ✨magic (and still does), being able to get the computer to do whatever I wanted. A spark ignited in my brain that opened my eyes to the endless possibilities of using software to solve practical problems in real life.
