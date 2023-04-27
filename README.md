@@ -103,6 +103,6 @@ Software engineering is like a never-ending puzzle in which I am fervidly commit
 
 <a href="http://www.github.com/vanquoc81"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vanquoc81&show_icons=true&title_color=3382ed&text_color=000000&icon_color=64748b&bg_color=ffffff" alt="vanquoc81's GitHub stats" /></a>
 
-<a href="https://github.com/vanquoc81"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanquoc81&langs_count=10&title_color=3382ed&text_color=000000&icon_color=64748b&bg_color=ffffff&locale=en&custom_title=Top%20%Languages&hide=html,tex" alt="Top Languages" /></a>
+<a href="https://github.com/vanquoc81"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanquoc81&langs_count=10&title_color=3382ed&text_color=000000&icon_color=64748b&bg_color=ffffff&locale=en&custom_title=Top%20%Languages&hide=html,tex,css" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/vanquoc81"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vanquoc81&bg_color=ffffff&color=000000&line=9ACD32&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
